@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alex",
+    "age": "18",
+    "photo": "https://masterpiecer-images.s3.yandex.net/37d9d9d5799f11ee99fbbadf81d486ab:upscaled"
+  },
+  {
+    "name": "Oksana",
+    "age": "25",
+    "photo": "https://img.freepik.com/free-photo/beautiful-butterfly-in-nature_23-2150445577.jpg"
+  },
+  {
+    "name": "Anna",
+    "age": "20",
+    "photo": "https://avatars.mds.yandex.net/i?id=43f1a029d98aef8cb0091dba04947086_l-5292126-images-thumbs&n=27&h=480&w=480"
+  },
+  {
+    "name": "Alisa",
+    "age": "19",
+    "photo": "https://img.freepik.com/free-photo/abstract-autumn-beauty-in-multi-colored-leaf-vein-pattern-generated-by-ai_188544-9871.jpg"
+  },
+  {
+    "name": "Max",
+    "age": "17",
+    "photo": "https://png.pngtree.com/thumb_back/fw800/background/20230610/pngtree-picture-of-a-blue-bird-on-a-black-background-image_2937385.jpg"
+  }
+]
